@@ -8,7 +8,6 @@ Talk by Mickal Winnicki
 ## Links from the chat
 
 - [boltz](https://boltz.bio/)
-- https://github.com/aqlaboratory/openfold
 - [openfold](https://github.com/aqlaboratory/openfold)
 - [ProteinMPNN](https://github.com/dauparas/ProteinMPNN)
 - [LigandMPNN](https://github.com/dauparas/LigandMPNN)
