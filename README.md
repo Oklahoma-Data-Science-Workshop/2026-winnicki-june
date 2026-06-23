@@ -18,7 +18,7 @@ Talk by Mickal Winnicki
 - [proteina-complexa](https://research.nvidia.com/labs/genair/proteina-complexa/)
 - [boltzgen](https://github.com/HannesStark/boltzgen)
 - [DynamicMPNN](https://github.com/Alex-Abrudan/DynamicMPNN)
-- [2025.08.15.670493v1.full.pdf](https://www.biorxiv.org/content/10.1101/2025.08.15.670493v1.full.pdf)
+- [Deep learning-based joint sequence–structure de novo membrane protein design](https://www.biorxiv.org/content/10.1101/2025.08.15.670493v1.full.pdf)
 - [Awesome-Diffusion-Models](https://diff-usion.github.io/Awesome-Diffusion-Models/)
 - [science.aeb5171](https://www.science.org/doi/10.1126/science.aeb5171)
 - [s41586-026-10328-7](https://www.nature.com/articles/s41586-026-10328-7)
