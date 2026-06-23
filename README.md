@@ -5,7 +5,7 @@ Talk by Mickal Winnicki
 
 ## Links from the chat
 
-- [https://boltz.bio/](boltz)
+- [boltz](https://boltz.bio/)
 - https://github.com/aqlaboratory/openfold
 https://github.com/dauparas/ProteinMPNN
 https://github.com/dauparas/LigandMPNN
