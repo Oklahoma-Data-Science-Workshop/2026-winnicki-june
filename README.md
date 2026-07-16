@@ -8,7 +8,7 @@ The protein design field underwent rapid advances in recent years thanks to the 
 ## Poster
 
 
-
+![](https://github.com/Oklahoma-Data-Science-Workshop/2026-winnicki-june/)
 
 
 
