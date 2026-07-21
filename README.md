@@ -2,7 +2,7 @@
 Talk by Mickal Winnicki
 
 ## Slides
-Exported to ![PDF]() 
+Exported to ![PDF](ODSW_19_06_2026small.pdf) 
 
 ## Abstract
 
